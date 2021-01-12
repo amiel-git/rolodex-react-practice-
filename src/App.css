@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+hr {
+  margin-bottom: 25px;
+}
